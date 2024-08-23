@@ -9,7 +9,7 @@ const items = [
         discount_percentage: 53,
         return_period: 14,
         delivery_date: '10 Oct 2023',
-        seller: 'Beyond Trends',
+        seller: 'EASY SHIP',
         rating: {
             stars: 3.9,
             count: 32,
@@ -25,7 +25,7 @@ const items = [
         discount_percentage: 74,
         return_period: 14,
         delivery_date: '10 Oct 2023',
-        seller: 'Beyond Trends',
+        seller: 'EASY SHIP',
         rating: {
             stars: 4.1,
             count: 1400,
@@ -41,7 +41,7 @@ const items = [
         discount_percentage: 45,
         return_period: 14,
         delivery_date: '10 Oct 2023',
-        seller: 'Beyond Trends',
+        seller: 'EASY SHIP',
         rating: {
             stars: 4.3,
             count: 123,
@@ -57,7 +57,7 @@ const items = [
         discount_percentage: 40,
         return_period: 14,
         delivery_date: '10 Oct 2023',
-        seller: 'Beyond Trends',
+        seller: 'EASY SHIP',
         rating: {
             stars: 4.1,
             count: 87,
@@ -73,7 +73,7 @@ const items = [
         discount_percentage: 68,
         return_period: 14,
         delivery_date: '10 Oct 2023',
-        seller: 'Beyond Trends',
+        seller: 'EASY SHIP',
         rating: {
             stars: 3.3,
             count: 48,
@@ -89,7 +89,7 @@ const items = [
         discount_percentage: 55,
         return_period: 14,
         delivery_date: '10 Oct 2023',
-        seller: 'Beyond Trends',
+        seller: 'EASY SHIP',
         rating: {
             stars: 4.3,
             count: 95,
@@ -105,7 +105,7 @@ const items = [
         discount_percentage: 35,
         return_period: 14,
         delivery_date: '10 Oct 2023',
-        seller: 'Beyond Trends',
+        seller: 'EASY SHIP',
         rating: {
             stars: 4,
             count: 189,
@@ -121,7 +121,7 @@ const items = [
         discount_percentage: 25,
         return_period: 14,
         delivery_date: '10 Oct 2023',
-        seller: 'Beyond Trends',
+        seller: 'EASY SHIP',
         rating: {
             stars: 4.1,
             count: 2000,
@@ -137,7 +137,7 @@ const items = [
         discount_percentage: 40,
         return_period: 14,
         delivery_date: '10 Oct 2023',
-        seller: 'Beyond Trends',
+        seller: 'EASY SHIP',
         rating: {
             stars: 4.5,
             count: 1400,
