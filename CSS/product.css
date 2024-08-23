@@ -1,0 +1,89 @@
+  .items-container{
+    width: 80%;
+    margin: 10% 10% 5% 10%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+
+  .item-container{
+    width: 200px;
+    margin: 10px;
+  }
+
+  .item-img{
+    width: 100%;
+    color: #282c3f;
+  }
+
+  .rating{
+    font-size: 12px;
+    font-weight: 700;
+    position: absolute;
+    margin-top: -35px;
+    margin-left: 15px;
+    border-radius: 2px;
+    padding: 4px;
+    background-color: hsla(0, 0%, 100%, .8);
+    z-index: 1;
+  }
+
+  .about-item{
+    margin-left: 15px;
+  }
+
+  .company-name{
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 1;
+    color: #282c3f;
+    margin: 6px 0px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  .item-name{
+    color: #535766;
+    font-size: 14px;
+    line-height: 1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-weight: 400;
+    display: block;
+    margin-bottom: 6px;
+  }
+
+  .current-price{
+    font-size: 14px;
+    font-weight: 700;
+    color: #282c3f;
+  }
+
+  .original-price{
+    text-decoration: line-through;
+    color: #7e818c;
+    font-weight: 400;
+    margin-left: 5px;
+    font-size: 12px;
+  }
+
+  .discount{
+    color: #ff905a;
+    font-weight: 400;
+    font-size: 12px;
+    margin-left: 5px;
+  }
+
+  .btn-add-bag{
+    background-color: hsla(0, 2%, 72%, 0.8);
+    width: 100%;
+    margin-top: 8px;
+    font-size: 18px;
+    font-weight: 400;
+    border-radius: 10px;
+    border: none;
+    padding: 5px 15px;
+    cursor: pointer;
+  }
