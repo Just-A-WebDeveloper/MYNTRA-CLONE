@@ -8,7 +8,7 @@ const items = [
         current_price: 799,
         discount_percentage: 53,
         return_period: 14,
-        delivery_date: '10 Oct 2023',
+        delivery_date: '10 Oct 2024',
         seller: 'EASY SHIP',
         rating: {
             stars: 3.9,
@@ -24,7 +24,7 @@ const items = [
         current_price: 519,
         discount_percentage: 74,
         return_period: 14,
-        delivery_date: '10 Oct 2023',
+        delivery_date: '10 Oct 2024',
         seller: 'EASY SHIP',
         rating: {
             stars: 4.1,
@@ -40,7 +40,7 @@ const items = [
         current_price: 934,
         discount_percentage: 45,
         return_period: 14,
-        delivery_date: '10 Oct 2023',
+        delivery_date: '10 Oct 2024',
         seller: 'EASY SHIP',
         rating: {
             stars: 4.3,
@@ -56,7 +56,7 @@ const items = [
         current_price: 1679,
         discount_percentage: 40,
         return_period: 14,
-        delivery_date: '10 Oct 2023',
+        delivery_date: '10 Oct 2024',
         seller: 'EASY SHIP',
         rating: {
             stars: 4.1,
@@ -72,7 +72,7 @@ const items = [
         current_price: 1551,
         discount_percentage: 68,
         return_period: 14,
-        delivery_date: '10 Oct 2023',
+        delivery_date: '10 Oct 2024',
         seller: 'EASY SHIP',
         rating: {
             stars: 3.3,
@@ -88,7 +88,7 @@ const items = [
         current_price: 1934,
         discount_percentage: 55,
         return_period: 14,
-        delivery_date: '10 Oct 2023',
+        delivery_date: '10 Oct 2024',
         seller: 'EASY SHIP',
         rating: {
             stars: 4.3,
@@ -104,7 +104,7 @@ const items = [
         current_price: 1234,
         discount_percentage: 35,
         return_period: 14,
-        delivery_date: '10 Oct 2023',
+        delivery_date: '10 Oct 2024',
         seller: 'EASY SHIP',
         rating: {
             stars: 4,
@@ -120,7 +120,7 @@ const items = [
         current_price: 899,
         discount_percentage: 25,
         return_period: 14,
-        delivery_date: '10 Oct 2023',
+        delivery_date: '10 Oct 2024',
         seller: 'EASY SHIP',
         rating: {
             stars: 4.1,
@@ -136,7 +136,7 @@ const items = [
         current_price: 1799,
         discount_percentage: 40,
         return_period: 14,
-        delivery_date: '10 Oct 2023',
+        delivery_date: '10 Oct 2024',
         seller: 'EASY SHIP',
         rating: {
             stars: 4.5,
